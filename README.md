@@ -1,0 +1,2 @@
+# lazyhitstat
+file hitstat lazy
